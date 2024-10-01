@@ -1,12 +1,10 @@
-## Hi there 👋
+🕹️ 
 
-<!--
+Hey, I’m Remiel and this repository is for Tools created and crafted by me.
 
-**Here are some ideas to get you started:**
+I’m a product designer, software engineer, photographer, and writer, currently living in India 🇮🇳. Right now I’m building ToolsbyRemiel.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[Toolsbyremiel &rarr;](https://tools.remiel.fyi) <br />
+[More about me &rarr;](https://remiel.fyi/about) <br />
+[My personal website](https://remiel.fyi/) <br />
+[@remiel on Twitter &rarr;](https://twitter.com/jrxag_official)
